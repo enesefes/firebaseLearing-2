@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\Hp\\Desktop\\denebabam\\firebasonolsun",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "TurkToWorld",
+  "framework": "svelte",
+  "template": "single-view",
+  "bundler": "webpack",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#d30c0c",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}
